@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mood Weather</string>
+    <string-array name="mood">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Anger</item>
+    </string-array>
+</resources>
